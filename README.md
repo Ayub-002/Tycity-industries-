@@ -1,9 +1,9 @@
 # Tycity industries
 
 ## Description
-This project is a web application designed to help users monitor and advertise the company development and future goals.
+This project is a web application designed to monitor and advertise Tycity company's development and future goals.
 
-## Installation
+## Accessibility
 
 1. Clone the repository:https://github.com/Ayub-002/Tycity-industries-
 
